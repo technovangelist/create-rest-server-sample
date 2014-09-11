@@ -1,0 +1,18 @@
+{
+    "name"             : "vendor_name/package_name",
+    "description"      : "description_text",
+    "minimum-stability": "stable",
+    "license"          : "proprietary",
+    "authors"          : [
+        {
+            "name" : "author's name",
+            "email": "email@example.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "2.4.3",
+        "bcosca/fatfree": "3.3.0",
+        "sofadesign/limonade": "dev-master",
+        "silex/silex": "2.0.x-dev"
+    }
+}
